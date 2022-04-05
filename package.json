@@ -1,5 +1,6 @@
 {
   "name": "user-login",
+  "homepage": "https//:www.userlogin.com/user-login",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
